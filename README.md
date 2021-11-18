@@ -1,6 +1,6 @@
 # Mysuru Tourism
 
-### Visit website - [click here](https://wecodifiers.github.io/Mysuru-Tourism/)
+### Visit website - [click here](https://codifiers-in.github.io/Mysuru-Tourism)
 
 <br>
 
